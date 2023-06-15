@@ -3,7 +3,7 @@
 
 
 :desktop_computer: 
-I'm a Full Stack Web Developer with experience in HTML, CSS, JavaScript, and React. I've worked at Balance Homes as Head of Homeowner Experience, where I was part of a team working to end foreclosure with a more affordable, flexible way to own a home. Prior to that, I spent over three years at Opendoor, most recently as a Sr. Manager of Customer Experience. This front-of-the-house experience triggered a love for building great product that connects and aligns users with the mission of the business.
+I'm a Full Stack Web Developer with experience in HTML, CSS, JavaScript, Node, SQL and React. I've worked at Balance Homes as Head of Homeowner Experience, where I was part of a team working to end foreclosure with a more affordable, flexible way to own a home. Prior to that, I spent over three years at Opendoor, most recently as a Sr. Manager of Customer Experience. This front-of-the-house experience triggered a love for building great product that connects and aligns users with the mission of the business.
 
 :books:
 My technical expertise includes JavaScript, HTMLS, CSS, React.js, and Node.js. I'm also proficient in Chinese (Limited Working) and Spanish (Professional Working). I also hold a Juris Doctor (J.D) degree in Entertainment, Media, and IP Law from UCLA School of Law. 
